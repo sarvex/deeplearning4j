@@ -24,7 +24,7 @@
 	<artifactId>deeplearning4j-hadoop</artifactId>
 	<name>DeepLearning 4j for Hadoop</name>
 	<properties>
-		<hadoop.version>2.2.0</hadoop.version>
+		<hadoop.version>3.2.4</hadoop.version>
 		<netty.version>3.2.9.Final</netty.version>
 	</properties>
 	<dependencyManagement>
