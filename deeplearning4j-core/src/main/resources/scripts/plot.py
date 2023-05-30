@@ -23,7 +23,7 @@ def hist_matrix(values,show = True,chart_title = ''):
 
     hist(values)
     magnitude = ' mm %g ' % mean(fabs(values))
-    chart_title += ' ' + magnitude
+    chart_title += f' {magnitude}'
     title(chart_title)
     
 def scatter_matrix(values,show = True,chart_title = ''):
@@ -33,7 +33,7 @@ def scatter_matrix(values,show = True,chart_title = ''):
 
     scatter(values)
     magnitude = ' mm %g ' % mean(fabs(values))
-    chart_title += ' ' + magnitude
+    chart_title += f' {magnitude}'
     title(chart_title)
 
 def render_hbias(path):
