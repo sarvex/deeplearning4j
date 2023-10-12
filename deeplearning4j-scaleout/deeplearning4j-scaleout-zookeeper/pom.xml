@@ -23,7 +23,7 @@
 	</parent>
 	<artifactId>deeplearning4j-scaleout-zookeeper</artifactId>
 	<properties>
-		<zookeeper.version>3.4.14</zookeeper.version>
+		<zookeeper.version>3.7.2</zookeeper.version>
 		<curator.version>2.4.0</curator.version>
 	</properties>
 	<dependencies>
