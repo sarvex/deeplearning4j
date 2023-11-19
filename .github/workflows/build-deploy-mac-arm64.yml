@@ -141,7 +141,7 @@ jobs:
               sudo rm -Rf /Library/Developer/CommandLineTools/SDKs/MacOSX10*
 
       - name: Import GPG Key
-        uses: crazy-max/ghaction-import-gpg@v1
+        uses: crazy-max/ghaction-import-gpg@v6
         env:
             GPG_PRIVATE_KEY: ${{ secrets.SONATYPE_GPG_KEY }}
             PASSPHRASE: ${{ secrets.MAVEN_GPG_PASSPHRASE }}
