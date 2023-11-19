@@ -106,7 +106,7 @@ jobs:
 
     runs-on: ${{ matrix.runs_on }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: ./.github/actions/set-linux-distro-version
       - name: Set mvn build command based on matrix
         shell: bash

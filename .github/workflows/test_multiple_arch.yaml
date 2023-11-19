@@ -4,7 +4,7 @@ jobs:
   cache:
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: konduitai/cuda-install/.github/actions/install-cuda-ubuntu@master
         env:
             cuda: 11.6.0
