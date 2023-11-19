@@ -52,7 +52,7 @@ jobs:
     runs-on: ${{ matrix.runs_on }}
     steps:
       - name: Cancel Previous Runs
-        uses: styfle/cancel-workflow-action@0.8.0
+        uses: styfle/cancel-workflow-action@0.12.0
         with:
           access_token: ${{ github.token }}
       - uses: actions/checkout@v2
@@ -161,7 +161,7 @@ jobs:
     runs-on: windows-2019
     steps:
       - name: Cancel Previous Runs
-        uses: styfle/cancel-workflow-action@0.8.0
+        uses: styfle/cancel-workflow-action@0.12.0
         with:
           access_token: ${{ github.token }}
       - uses: actions/checkout@v2
@@ -240,7 +240,7 @@ jobs:
     runs-on: macos-10.15
     steps:
       - name: Cancel Previous Runs
-        uses: styfle/cancel-workflow-action@0.8.0
+        uses: styfle/cancel-workflow-action@0.12.0
         with:
           access_token: ${{ github.token }}
       - uses: actions/checkout@v2
