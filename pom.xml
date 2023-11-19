@@ -309,7 +309,7 @@
         <!-- Test resource profile must be enabled unless using -DskipTests etc -->
         <skipTestResourceEnforcement>false</skipTestResourceEnforcement>
         <findbugs-annotations.version>1.3.9-1</findbugs-annotations.version>
-        <netty.version>4.1.74.Final</netty.version>
+        <netty.version>4.1.94.Final</netty.version>
         <log4j2.version>2.17.2</log4j2.version>
         <byteunits.version>0.9.1</byteunits.version>
         <neoitertools.version>1.0.0</neoitertools.version>
