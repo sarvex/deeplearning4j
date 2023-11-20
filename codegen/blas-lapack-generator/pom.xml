@@ -16,7 +16,7 @@
   <name>blas-lapack-generator</name>
 
   <properties>
-    <javaparser.version>3.24.4</javaparser.version>
+    <javaparser.version>3.25.6</javaparser.version>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
     <javapoet.version>1.13.0</javapoet.version>
