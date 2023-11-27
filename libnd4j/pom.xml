@@ -70,7 +70,7 @@
         <libnd4j.log>none</libnd4j.log>
         <libnd4j.test.runner></libnd4j.test.runner>
         <libnd4j.keepnvcc>OFF</libnd4j.keepnvcc>
-        <junit.version>5.9.2</junit.version>
+        <junit.version>5.10.1</junit.version>
         <cpu.core.count></cpu.core.count>
 
     </properties>
