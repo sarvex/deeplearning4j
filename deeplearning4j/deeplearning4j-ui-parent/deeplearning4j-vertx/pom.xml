@@ -103,7 +103,7 @@
         <dependency>
             <groupId>org.webjars.npm</groupId>
             <artifactId>coreui__coreui</artifactId>
-            <version>2.1.9</version>
+            <version>4.2.1</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.webjars.npm</groupId>
