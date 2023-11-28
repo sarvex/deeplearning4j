@@ -135,7 +135,7 @@
         <dl4j-test-resources.version>1.0.0-SNAPSHOT</dl4j-test-resources.version>
         <dl4j-test-resources.classifier></dl4j-test-resources.classifier>
         <rxjava.version>2.2.21</rxjava.version>
-        <arrow.version>6.0.1</arrow.version>
+        <arrow.version>14.0.1</arrow.version>
         <jets3t.version>0.7.1</jets3t.version>
         <metrics.version>3.2.6</metrics.version>
         <netty.version>4.1.101.Final</netty.version>
