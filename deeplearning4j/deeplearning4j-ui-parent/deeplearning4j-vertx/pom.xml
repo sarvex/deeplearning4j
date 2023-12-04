@@ -348,7 +348,7 @@
             <dependency>
                 <groupId>org.webjars.npm</groupId>
                 <artifactId>heap</artifactId>
-                <version>0.2.6</version>
+                <version>0.2.7</version>
             </dependency>
             <dependency>
                 <groupId>org.webjars.npm</groupId>
