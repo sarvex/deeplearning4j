@@ -316,7 +316,7 @@
         <rxjava.version>2.2.0</rxjava.version>
         <kotlin.version>1.9.21</kotlin.version>
         <javapoet.version>1.13.0</javapoet.version>
-        <kotlin-logging.version>2.1.21</kotlin-logging.version>
+        <kotlin-logging.version>3.0.5</kotlin-logging.version>
         <test.heap.size>8g</test.heap.size>
         <test.offheap.size>8g</test.offheap.size>
         <module.name></module.name>
