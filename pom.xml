@@ -207,7 +207,7 @@
         <tensorflow.javacpp.version>${tensorflow.version}-1.5.8</tensorflow.javacpp.version>
 
         <archunit.version>1.2.0</archunit.version>
-        <commons-compress.version>1.21</commons-compress.version>
+        <commons-compress.version>1.26.0</commons-compress.version>
         <commonsmath.version>3.5</commonsmath.version>
         <commonslang.version>3.11</commonslang.version>
         <commonsio.version>2.7</commonsio.version>
