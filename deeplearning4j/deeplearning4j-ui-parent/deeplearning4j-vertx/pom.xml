@@ -394,7 +394,7 @@
             <dependency>
                 <groupId>org.webjars.npm</groupId>
                 <artifactId>d3-dispatch</artifactId>
-                <version>1.0.5</version>
+                <version>3.0.1</version>
             </dependency>
             <dependency>
                 <groupId>org.webjars.npm</groupId>
